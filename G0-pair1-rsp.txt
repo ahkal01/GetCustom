@@ -1,1 +1,4 @@
-{ "my-example-response-{THING}": "18879" }
+{ 
+    "alain-example-response-{THING}": "18879" ,
+    "hello": "world"
+}
